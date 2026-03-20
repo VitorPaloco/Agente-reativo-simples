@@ -30,4 +30,4 @@ A cada ação:
 Para executar o projeto:
 
 ```bash
-python nome_do_arquivo.py
+python main.py
