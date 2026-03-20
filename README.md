@@ -1,11 +1,8 @@
 # 🤖 Trabalho - Robô Aspirador Reativo Simples
 
-## 👥 Equipe
-- Vitor Hugo Oliveira Paloco  
-
 ## 📌 Descrição
 
-Este projeto consiste na implementação de um **robô aspirador reativo simples** em um ambiente linear representado por uma lista de 10 posições.
+Este agente consiste na implementação de um **robô aspirador reativo simples** em um ambiente linear representado por uma lista de 10 posições.
 
 O ambiente pode conter:
 - `"~"` → sujeira  
